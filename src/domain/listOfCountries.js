@@ -1,5 +1,5 @@
-export const allCountries = [ 
-    'Israel',
-    'Japan',
-    'Switzerland'
-];
+export const allCountries = {
+    Israel: 0,
+    Japan: 0,
+    Switzerland: 0
+};
